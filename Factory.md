@@ -1,0 +1,1 @@
+# This article explains the Factory design pattern

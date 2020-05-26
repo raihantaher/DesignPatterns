@@ -1,0 +1,1 @@
+# This article explains the Adapter design pattern
